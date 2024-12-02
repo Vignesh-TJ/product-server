@@ -1,0 +1,4 @@
+middle ware:
+   it is function which have the ability to break the request response cycle
+default ()
+ to parse json format
